@@ -29,10 +29,10 @@ Now I'm focused on the intersection of **backend engineering + AI** — building
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [🤖 legacybot](https://github.com/HimabinduPyata/legacybot) | AI Copilot for legacy codebases — searches docs, Slack history, and GitHub commits to unblock new engineers instantly | Python · Slack · FAISS · OpenAI |
-| [🔍 ai-document-qa](https://github.com/HimabinduPyata/ai-document-qa) | Production-style RAG system — ask questions over PDFs using FAISS + OpenAI embeddings | Python · FAISS · OpenAI |
-| [📄 ai-resume-matcher](https://github.com/HimabinduPyata/ai-resume-matcher) | Resume vs. job description matcher with skill gap analysis and match scoring | Python · OpenAI |
-| [🎤 ai-interview-coach](https://github.com/HimabinduPyata/ai-interview-coach) | Generates technical, behavioral & system design questions from job descriptions | Python · OpenAI |
+| [legacybot](https://github.com/HimabinduPyata/legacybot) | AI Copilot for legacy codebases — searches docs, Slack history, and GitHub commits to unblock new engineers instantly | Python · Slack · FAISS · OpenAI |
+| [ai-document-qa](https://github.com/HimabinduPyata/ai-document-qa) | Production-style RAG system — ask questions over PDFs using FAISS + OpenAI embeddings | Python · FAISS · OpenAI |
+| [ai-resume-matcher](https://github.com/HimabinduPyata/ai-resume-matcher) | Resume vs. job description matcher with skill gap analysis and match scoring | Python · OpenAI |
+| [ai-interview-coach](https://github.com/HimabinduPyata/ai-interview-coach) | Generates technical, behavioral & system design questions from job descriptions | Python · OpenAI |
 
 ---
 
