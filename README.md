@@ -15,7 +15,7 @@ Now I'm focused on the intersection of **backend engineering + AI** — building
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages:** Java · Python · SQL · GoLang · Shell  
 **AI/ML:** OpenAI API · LangChain · FAISS · RAG Pipelines · Scikit-learn · Pandas  
@@ -25,7 +25,7 @@ Now I'm focused on the intersection of **backend engineering + AI** — building
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
@@ -36,7 +36,7 @@ Now I'm focused on the intersection of **backend engineering + AI** — building
 
 ---
 
-## 💼 Experience Highlights
+## Experience Highlights
 
 **NCR Corporation** — Software Development Engineer II *(2021 – 2023)*  
 - Built ATM fleet management system using Spring, Java, Oracle, and ActiveMQ  
@@ -49,7 +49,7 @@ Now I'm focused on the intersection of **backend engineering + AI** — building
 
 ---
 
-## 🎓 Education
+## Education
 
 **M.S. Computer Science** — University of Georgia *(2019–2021)*  
 Distributed Systems · Cloud Computing · ML · Advanced Data Analytics
@@ -58,7 +58,7 @@ Distributed Systems · Cloud Computing · ML · Advanced Data Analytics
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-himabindu--pyata-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/himabindu-pyata-7b8a78bb/)
 [![GitHub](https://img.shields.io/badge/GitHub-HimabinduPyata-black?style=flat&logo=github)](https://github.com/HimabinduPyata)
