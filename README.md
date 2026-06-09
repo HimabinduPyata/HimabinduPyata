@@ -1,4 +1,4 @@
-# Hi, I'm Himabindu 👋
+# Hi, I'm Himabindu 
 
 **Software Engineer · AI/LLM Applications · Backend Systems**  
 📍 Santa Clara, CA &nbsp;|&nbsp; 🟢 Open to Work &nbsp;|&nbsp; EAD · No Sponsorship Required
