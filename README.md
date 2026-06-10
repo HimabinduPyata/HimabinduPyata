@@ -11,7 +11,7 @@ Software Engineer with **5 years of experience** building scalable backend syste
 
 Previously at **NCR Corporation** (Atlanta), I led cloud migration initiatives for critical banking systems using Docker, Kubernetes, and AWS. Before that, I built financial analytics platforms at **Capgemini** for clients like Moody's Analytics.
 
-Now I'm focused on the intersection of **backend engineering + AI** — building production-style tools using Python, OpenAI APIs, and RAG pipelines.
+Now I'm focused on the intersection of **software engineering + AI** — building production-style tools using Python, OpenAI APIs, and RAG pipelines.
 
 ---
 
