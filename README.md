@@ -7,12 +7,9 @@
 
 ## About Me
 
-Software Engineer with **5 years of experience** building scalable backend systems and enterprise applications. After a career break for my growing family, I'm back — actively building AI-powered projects and sharpening my skills in LLM engineering, cloud infrastructure, and system design.
+I'm a Java Developer with 7+ years of experience building enterprise backend systems and AI-powered applications.Most recently at American Express I've been working on AI-enabled banking applications building RAG pipelines, LangChain integrations, and event-driven microservices that process millions of transactions daily.  
 
-Previously at **NCR Corporation** (Atlanta), I led cloud migration initiatives for critical banking systems using Docker, Kubernetes, and AWS. Before that, I built financial analytics platforms at **Capgemini** for clients like Moody's Analytics.
-
-Now I'm focused on the intersection of **software engineering + AI** — building production-style tools using Python, OpenAI APIs, and RAG pipelines.
-
+Currently exploring new opportunities  in AI Engineering and Backend Development.
 ---
 
 ## Tech Stack
